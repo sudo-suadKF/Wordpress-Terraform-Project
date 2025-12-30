@@ -126,7 +126,6 @@ After deployment, WordPress is accessible via the configured domain name.
 ## Future improvements
 
 - Move EC2 instances to an Auto Scaling Group
-- Add RDS Multi-AZ for database-level failover
 - Store secrets in AWS Secrets Manager
 - Add CloudWatch alarms and logs
 - Introduce a CI/CD pipeline for Terraform validation
